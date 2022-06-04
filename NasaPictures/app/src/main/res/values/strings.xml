@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Obvious Nasa Pictures</string>
+
+    <!--    Splash -->
+    <string name="title">Nasa Pictures</string>
+    <string name="alert_internet">No Internet Connection.</string>
+</resources>
